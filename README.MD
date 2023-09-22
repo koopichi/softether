@@ -106,6 +106,8 @@ update-rc.d vpnserver defaults
 ```
 12- On the main page of the server manager, press “Local Bridge Setting”. From the Virtual Hub drop down, select yours. Click “Bridge with New Tap Device” and type “soft”. Click “Create Local Bridge”. A prompt may come up for “Using Local Bridge Function on VM” but just press ok. You should see the new device in the list as “Operating”.
 
+![Alt text](https://github.com/koopichi/softether/blob/main/softether1.png)
+
 13- Go back to the Linux machine using PuTTY. Show to the new “soft” network interface we created.
 
 ```
