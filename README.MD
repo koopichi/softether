@@ -16,7 +16,7 @@ wget https://github.com/SoftEtherVPN/SoftEtherVPN_Stable/releases/download/v4.41
 4- Extract the installer.
 
 ```
-tar -xvzf https://github.com/SoftEtherVPN/SoftEtherVPN_Stable/releases/download/v4.41-9782-beta/softether-vpnserver-v4.41-9782-beta-2022.11.17-linux-x64-64bit.tar.gz
+tar -xvzf softether-vpnserver-v4.41-9782-beta-2022.11.17-linux-x64-64bit.tar.gz
 ```
 5- Navigate to new directory and install SoftEther.
 
